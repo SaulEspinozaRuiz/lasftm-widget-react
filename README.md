@@ -1,7 +1,5 @@
 ## Widget para mostrar la cancion que se esta en reproduccion.
 
----
-
 Este widget hace uso de la api de last.fm para obtener la cancion que se esta reproduciendo en el
 momento, para poder usarlo es necesario tener una cuenta en last.fm y obtener una api key.
 
@@ -19,4 +17,4 @@ Para ejecutar el proyecto se debe usar el comando:
 npm run dev
 ```
 
-[img1]: /src/assets/sample.png 'sample'
+![Widget](/src/assets/sample.png)
